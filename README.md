@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/ofsahof})
-- Twitter [@your-twitter](https://twitter.com/ofsahof)
+- GitHub [@ofsahof](https://github.com/ofsahof})
+- Twitter [@ofsahof](https://twitter.com/ofsahof)
